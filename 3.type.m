@@ -159,3 +159,5 @@ x.^y
 % ans =
 %
 %    2   4   8
+
+ch = 'STRINNNG'
